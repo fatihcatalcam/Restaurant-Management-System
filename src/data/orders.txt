@@ -1,0 +1,19 @@
+f,Taze Fasulye,7.0,1,7.0,a,b,c
+f,Taze Fasulye,7.0,1,7.0,a,a,a
+f,Taze Fasulye,7.0,1,Pizza,3.0,1,Burger,2.0,1,12.0,a,b,c
+f,Taze Fasulye,7.0,2,Burger,2.0,1,16.0,1,2,3
+1,Taze Fasulye,7.0,1,Pizza,3.0,3,16.0,a,aa,aaa
+1,Tas kebabı,400.0,1,400.0,aaaa,aa,a
+1,Taze Fasulye,7.0,1,7.0,asd,asd,asd
+f,Taze Fasulye,7.0,1,Pizza,3.0,1,10.0,a,a,a
+f,Taze Fasulye,7.0,1,Pizza,3.0,1,Burger,2.0,1,12.0,a,1,2
+f,Taze Fasulye,7.0,1,Tas kebabı,400.0,1,407.0,a,a,a
+f,Taze Fasulye,7.0,1,7.0,sa,as,11
+f,Baklava,30.0,2,Kuru Fasulye,30.0,1,Pilav,30.0,1,Sosisli,15.0,2,Mercimek,20.0,4,Kola,20.0,1,Çay,15.0,2,280.0,kennedy,fatih,2212
+gökay,Kuru Fasulye,30.0,1,Pilav,30.0,1,Kola,20.0,1,Baklava,30.0,1,110.0,221.,atakent mah,34100
+f,Kuru Fasulye,30.0,1,Pilav,30.0,1,60.0,asr,sg,sdfs
+f,Kuru Fasulye,30.0,1,30.0,a,a,a
+1,Kuru Fasulye,30.0,1,Pilav,30.0,1,Lahmacun,60.0,1,Mercimek,20.0,1,140.0,asd,asd,sdad
+f,Sosisli,15.0,1,15.0,a,a,a
+f,Lahmacun,60.0,15,900.0,a,b,c
+f,Kuru Fasulye,30.0,2,60.0,a,a,1

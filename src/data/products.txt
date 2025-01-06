@@ -1,0 +1,8 @@
+Kuru Fasulye,30.0,100,main course,111
+Sosisli,15.0,100,appetizer,111
+Baklava,30.0,100,dessert,111
+Mercimek,20.0,100,soup,111
+Pilav,30.0,100,main course,111
+Kola,20.0,100,beverage,111
+Çay,15.0,100,beverage,111
+Şinitzel,30.0,100,main couse,200
